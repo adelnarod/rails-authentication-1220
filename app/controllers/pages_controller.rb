@@ -4,6 +4,6 @@ class PagesController < ApplicationController
   end
 
   def about_us
-    # com,ment
+    # comment wegfagegafdgafgdag
   end
 end
